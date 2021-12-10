@@ -101,3 +101,5 @@ if (args.radius):
         for i in influence.keys():
             if (i in lev2 and lev2[i] <= (r + 1)):
                 influence[i] = changeInfluence(i,degree)
+
+                
