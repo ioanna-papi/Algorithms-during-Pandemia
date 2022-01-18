@@ -1,5 +1,6 @@
 # Problem description
 In the Description.pdf
+Alternatively, visit: https://nbviewer.jupyter.org/github/dmst-algorithms-course/assignment-2020-1/blob/master/assignment_2020_1.ipynb?flush_cache=true
 
 # How to run the code:
 
