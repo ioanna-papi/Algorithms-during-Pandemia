@@ -21,5 +21,9 @@ The input_file parameter is the name of the file that describes the graph.
 The input_file file will be in the format:
 
 1 2
+
 1 3
+
 2 4 
+
+...
