@@ -1,5 +1,4 @@
-# Problem description
-(in greek)
+# Problem description (in greek)
 In the Description.pdf
 
 Alternatively, visit: https://nbviewer.jupyter.org/github/dmst-algorithms-course/assignment-2020-2/blob/master/assignment_2020_2.ipynb?flush_cache=true
