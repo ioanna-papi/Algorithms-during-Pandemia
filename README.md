@@ -5,5 +5,21 @@ Alternatively, visit: https://nbviewer.jupyter.org/github/dmst-algorithms-course
 
 # How to run the code:
     python network_destruction.py [-c] [-r RADIUS] num_nodes input_file
-![Στιγμιότυπο οθόνης (168)](https://user-images.githubusercontent.com/57221590/145521617-5b902a81-6b92-44dc-a850-b35485e8c933.png)
 
+Depending on your computer's operating system you may need to provide python3 or something instead of python.
+
+The brackets are not part of the things given by the user, they just serve to remind us in the program description that this parameter is optional. So we have:
+
+If the -c parameter is given, the program will use the number of links of each node and not the total influence. That is, it will work like the first example we gave. Otherwise, the program will use the overall influence, ie it will work like the second example.
+
+If the parameter -r RADIUS is given the program will use the RADIUS value for r.
+
+The num_nodes parameter corresponds to the number of nodes we want to remove.
+
+The input_file parameter is the name of the file that describes the graph. 
+
+The input_file file will be in the format:
+
+1 2
+1 3
+2 4 
