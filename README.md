@@ -18,12 +18,4 @@ The num_nodes parameter corresponds to the number of nodes we want to remove.
 
 The input_file parameter is the name of the file that describes the graph. 
 
-The input_file file will be in the format:
-
-1 2
-
-1 3
-
-2 4 
-
-...
+You can use as an input file, one of those I have uploaded in the repository.
